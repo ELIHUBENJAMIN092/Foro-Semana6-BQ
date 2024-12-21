@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\Ejercicios Semana 6 BQ\\Ejercicio2-Semana6-BQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1970E965-C085-4B85-9693-42BDE608AE64}|Ejercicio2-Semana6-BQ\\Ejercicio2-Semana6-BQ.esproj|c:\\users\\benja\\onedrive\\escritorio\\universidad iti\\programaci\u00F3n de aplicaciones web y m\u00F3viles\\ejercicios semana 6 bq\\ejercicio2-semana6-bq\\ejercicio2-semana6-bq\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1970E965-C085-4B85-9693-42BDE608AE64}|Ejercicio2-Semana6-BQ\\Ejercicio2-Semana6-BQ.esproj|solutionrelative:ejercicio2-semana6-bq\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\Ejercicios Semana 6 BQ\\Ejercicio2-Semana6-BQ\\Ejercicio2-Semana6-BQ\\app.js",
+              "RelativeDocumentMoniker": "Ejercicio2-Semana6-BQ\\app.js",
+              "ToolTip": "C:\\Users\\BENJA\\OneDrive\\Escritorio\\UNIVERSIDAD ITI\\Programaci\u00F3n de Aplicaciones Web y M\u00F3viles\\Ejercicios Semana 6 BQ\\Ejercicio2-Semana6-BQ\\Ejercicio2-Semana6-BQ\\app.js",
+              "RelativeToolTip": "Ejercicio2-Semana6-BQ\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-21T01:34:16.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
